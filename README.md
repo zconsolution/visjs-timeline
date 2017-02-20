@@ -1,12 +1,11 @@
-# blog-sample
+# visjs Timeline sample
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+To use this code: Open a command prompt in the project's root directory.
 
-## Build & development
+1) Git Clone repository - git clone https://github.com/zconsolution/angularjs-validations.git Please Note : Grunt-cli should be installed. If not installed run command : npm install -g grunt-cli
 
-Run `grunt` for building and `grunt serve` for preview.
+2) npm install
 
-## Testing
+3) bower install
 
-Running `grunt test` will run the unit tests with karma.
+4) grunt serve
